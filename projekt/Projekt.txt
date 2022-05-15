@@ -1,0 +1,20 @@
+Aplikacja do obsługi funkcjonalności oferowanych przez biuro podróży (ASP.NET)
+Harmonogram:
+
+1. Inicjalizacja projektu ASP.NET
+2. Przygotowanie i konfiguracja bazy danych SQL Server
+3. Przygotowanie struktóry bazy danych:
+
+4. Przygotowanie ORM Entity Framework
+5. Przygotowanie struktóry katalogowej projektu 
+6. Przygotowanie systemu rejestracji i logowania użytkowników
+7. Przygotowanie struktóry uprawnień dla użytkowników oraz nadanie dostępu do funkcji w aplikacji poszczególnym użytkownikom
+8. System zarządzania kontami użytkowników
+9. Rest API obsługujący zarządzanie użytkownikami
+10. Funckja dodania nowej oferty biura podróży
+11. Funkcja usuwania starych ofert
+12. Funkcja edycji oferty
+13. Funkcja pobierania istniejącej oferty
+14. Dodawanie oferty do ulubionych przez użytkowników (użytkownik typu user)
+15. Finalizacja oferty przez pracownika biura podróży (użytkownik typu employee)
+16. Nadawanie uprawnień employee przez użytkownika Admin
